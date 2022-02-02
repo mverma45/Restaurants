@@ -22,3 +22,28 @@ body {
   left: 0px;
   opacity: 0.5;
 }
+
+.dhaba-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  list-style: none;
+}
+
+/* starters */
+/* 
+.card-body {
+ padding-lef;
+} */
+.main-starter-heading {
+  padding-left: 2em;
+}
+
+.starters {
+  padding-left: 2em;
+}
+
+.samosa-starter,
+.price-starter {
+  font-weight: 500;
+}
