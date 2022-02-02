@@ -30,11 +30,20 @@ body {
   list-style: none;
 }
 
+.menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
 /* starters */
-/* 
-.card-body {
- padding-lef;
-} */
+.card-image-top {
+  display: flex;
+  flex-direction: row;
+  justify-items: left;
+  justify-content: space-evenly;
+}
+
 .main-starter-heading {
   padding-left: 2em;
 }
